@@ -1,0 +1,502 @@
+Match_ID,Date,Runs,Balls_Faced,Boundaries_4s,Locations_4s,Sixes_6s,Locations_6s,Dismissal_Type,Bowler
+1,2020-01-01,9,6,0,None,0,None,Bowled,Rashid Khan
+2,2020-01-02,1,1,0,None,0,None,Bowled,Chahal
+3,2020-01-03,87,57,7,"Long On, Extra Cover, Cover, Long On, Point, Point, Fine Leg",0,None,Caught,Boult
+4,2020-01-04,21,17,1,Long Off,0,None,Bowled,Chahal
+5,2020-01-05,13,10,1,Extra Cover,0,None,Not Out,N/A
+6,2020-01-06,65,73,4,"Long Off, Third Man, Long Off, Long On",1,Mid Wicket,Not Out,N/A
+7,2020-01-07,8,6,0,None,0,None,Run Out,N/A
+8,2020-01-08,45,27,2,"Fine Leg, Long Off",0,None,Not Out,N/A
+9,2020-01-09,10,7,0,None,0,None,Run Out,N/A
+10,2020-01-10,36,31,2,"Cover, Third Man",0,None,Bowled,Boult
+11,2020-01-11,53,34,2,"Fine Leg, Fine Leg",0,None,Bowled,Hazlewood
+12,2020-01-12,68,44,5,"Point, Mid Wicket, Third Man, Third Man, Point",1,Cover,Caught,Chahal
+13,2020-01-13,33,23,3,"Cover, Long On, Extra Cover",0,None,Caught,Chahal
+14,2020-01-14,15,19,1,Third Man,0,None,Caught,Starc
+15,2020-01-15,26,21,1,Mid Wicket,0,None,Caught,Starc
+16,2020-01-16,36,33,3,"Long On, Cover, Extra Cover",0,None,Caught,Rabada
+17,2020-01-17,55,40,5,"Cover, Cover, Cover, Third Man, Extra Cover",1,Extra Cover,LBW,Starc
+18,2020-01-18,3,4,0,None,0,None,Stumped,Starc
+19,2020-01-19,8,6,0,None,0,None,Caught,Rashid Khan
+20,2020-01-20,41,35,2,"Fine Leg, Square Leg",0,None,Bowled,Chahal
+21,2020-01-21,6,4,0,None,0,None,Stumped,Bumrah
+22,2020-01-22,33,34,3,"Extra Cover, Cover, Mid Wicket",0,None,LBW,Starc
+23,2020-01-23,21,23,1,Square Leg,0,None,Caught,Boult
+24,2020-01-24,43,46,4,"Third Man, Mid Wicket, Fine Leg, Mid Wicket",0,None,Bowled,Boult
+25,2020-01-25,6,5,0,None,0,None,Caught,Hazlewood
+26,2020-01-26,60,72,6,"Cover, Long On, Extra Cover, Point, Cover, Fine Leg",1,Long On,LBW,Bumrah
+27,2020-01-27,28,21,2,"Fine Leg, Third Man",0,None,Caught,Rabada
+28,2020-01-28,33,31,3,"Long On, Third Man, Fine Leg",0,None,Caught,Rabada
+29,2020-01-29,50,39,5,"Long On, Point, Mid Wicket, Mid Wicket, Point",0,None,Caught,Hazlewood
+30,2020-01-30,4,4,0,None,0,None,Caught,Boult
+31,2020-01-31,39,24,4,"Mid Wicket, Third Man, Mid Wicket, Long On",0,None,Not Out,N/A
+32,2020-02-01,26,19,2,"Fine Leg, Point",0,None,Caught,Bumrah
+33,2020-02-02,63,42,5,"Extra Cover, Point, Fine Leg, Square Leg, Long Off",1,Third Man,Caught,Cummins
+34,2020-02-03,26,21,3,"Cover, Long On, Mid Wicket",0,None,Bowled,Chahal
+35,2020-02-04,7,5,0,None,0,None,Caught,Starc
+36,2020-02-05,12,9,1,Long On,0,None,Caught,Bumrah
+37,2020-02-06,5,4,0,None,0,None,Not Out,N/A
+38,2020-02-07,6,8,0,None,0,None,Caught,Starc
+39,2020-02-08,20,21,2,"Fine Leg, Fine Leg",0,None,Caught,Rabada
+40,2020-02-09,24,29,1,Third Man,0,None,Caught,Rabada
+41,2020-02-10,91,62,5,"Extra Cover, Square Leg, Long On, Third Man, Cover",0,None,Bowled,Chahal
+42,2020-02-11,11,7,0,None,0,None,Not Out,N/A
+43,2020-02-12,32,32,3,"Point, Cover, Cover",0,None,Caught,Starc
+44,2020-02-13,48,60,2,"Mid Wicket, Extra Cover",0,None,Caught,Starc
+45,2020-02-14,70,77,7,"Extra Cover, Fine Leg, Long Off, Square Leg, Fine Leg, Cover, Cover",0,None,Caught,Cummins
+46,2020-02-15,41,24,2,"Long Off, Square Leg",0,None,Caught,Bumrah
+47,2020-02-16,24,19,1,Long On,0,None,Stumped,Bumrah
+48,2020-02-17,37,25,2,"Cover, Third Man",0,None,Caught,Rashid Khan
+49,2020-02-18,32,25,2,"Cover, Extra Cover",0,None,LBW,Chahal
+50,2020-02-19,79,59,6,"Long On, Long Off, Mid Wicket, Fine Leg, Extra Cover, Third Man",1,Mid Wicket,Caught,Rashid Khan
+51,2020-02-20,70,64,8,"Fine Leg, Point, Long On, Cover, Third Man, Mid Wicket, Long On, Square Leg",2,"Mid Wicket, Point",Bowled,Chahal
+52,2020-02-21,73,46,8,"Point, Cover, Cover, Third Man, Long On, Long Off, Fine Leg, Long Off",1,Extra Cover,LBW,Boult
+53,2020-02-22,3,3,0,None,0,None,Caught,Boult
+54,2020-02-23,185,221,22,"Long On, Long Off, Square Leg, Mid Wicket, Mid Wicket, Long On, Mid Wicket, Long Off, Fine Leg, Fine Leg, Square Leg, Extra Cover, Third Man, Mid Wicket, Point, Long Off, Mid Wicket, Third Man, Long Off, Extra Cover, Long Off, Square Leg",4,"Point, Point, Third Man, Fine Leg",Not Out,N/A
+55,2020-02-24,152,122,11,"Fine Leg, Long On, Point, Extra Cover, Third Man, Mid Wicket, Cover, Square Leg, Extra Cover, Long On, Long Off",2,"Mid Wicket, Cover",Caught,Bumrah
+56,2020-02-25,38,29,4,"Mid Wicket, Third Man, Mid Wicket, Long On",0,None,Caught,Hazlewood
+57,2020-02-26,11,8,0,None,0,None,Bowled,Starc
+58,2020-02-27,89,64,5,"Mid Wicket, Long Off, Square Leg, Square Leg, Fine Leg",0,None,Not Out,N/A
+59,2020-02-28,10,7,0,None,0,None,Caught,Chahal
+60,2020-02-29,43,33,3,"Long Off, Square Leg, Long On",0,None,Caught,Chahal
+61,2020-03-01,13,9,0,None,0,None,Caught,Cummins
+62,2020-03-02,32,37,3,"Extra Cover, Third Man, Fine Leg",0,None,Stumped,Rabada
+63,2020-03-03,19,18,1,Mid Wicket,0,None,Not Out,N/A
+64,2020-03-04,34,24,4,"Square Leg, Square Leg, Fine Leg, Cover",0,None,Bowled,Hazlewood
+65,2020-03-05,66,80,4,"Square Leg, Fine Leg, Third Man, Mid Wicket",0,None,LBW,Starc
+66,2020-03-06,18,17,2,"Square Leg, Long On",0,None,Bowled,Cummins
+67,2020-03-07,16,10,1,Square Leg,0,None,Caught,Bumrah
+68,2020-03-08,102,97,10,"Extra Cover, Third Man, Square Leg, Fine Leg, Third Man, Long Off, Extra Cover, Cover, Extra Cover, Square Leg",1,Extra Cover,LBW,Bumrah
+69,2020-03-09,57,36,3,"Long On, Mid Wicket, Mid Wicket",0,None,LBW,Chahal
+70,2020-03-10,51,33,4,"Mid Wicket, Square Leg, Square Leg, Third Man",1,Point,Caught,Boult
+71,2020-03-11,86,61,5,"Square Leg, Point, Third Man, Point, Extra Cover",2,"Long On, Mid Wicket",Caught,Rashid Khan
+72,2020-03-12,113,114,9,"Cover, Cover, Cover, Fine Leg, Fine Leg, Mid Wicket, Point, Long On, Point",3,"Extra Cover, Square Leg, Cover",Bowled,Chahal
+73,2020-03-13,77,78,8,"Point, Extra Cover, Fine Leg, Point, Long On, Long On, Long On, Mid Wicket",0,None,Caught,Chahal
+74,2020-03-14,9,9,0,None,0,None,Caught,Boult
+75,2020-03-15,14,9,1,Fine Leg,0,None,Caught,Starc
+76,2020-03-16,68,44,7,"Long Off, Third Man, Cover, Third Man, Third Man, Long On, Third Man",0,None,Caught,Boult
+77,2020-03-17,15,13,1,Mid Wicket,0,None,Caught,Boult
+78,2020-03-18,17,16,0,None,0,None,Caught,Hazlewood
+79,2020-03-19,13,11,1,Long Off,0,None,Caught,Starc
+80,2020-03-20,10,7,1,Mid Wicket,0,None,Caught,Cummins
+81,2020-03-21,87,56,4,"Point, Long On, Square Leg, Mid Wicket",0,None,Caught,Rashid Khan
+82,2020-03-22,24,20,2,"Fine Leg, Mid Wicket",0,None,Bowled,Rashid Khan
+83,2020-03-23,3,3,0,None,0,None,Caught,Rashid Khan
+84,2020-03-24,26,26,1,Extra Cover,0,None,Caught,Cummins
+85,2020-03-25,32,39,2,"Long Off, Third Man",0,None,Bowled,Rashid Khan
+86,2020-03-26,35,32,3,"Extra Cover, Third Man, Point",0,None,Caught,Cummins
+87,2020-03-27,51,57,4,"Square Leg, Long On, Fine Leg, Mid Wicket",0,None,Caught,Rashid Khan
+88,2020-03-28,27,19,1,Long Off,0,None,Run Out,N/A
+89,2020-03-29,64,42,6,"Cover, Mid Wicket, Third Man, Long On, Long Off, Third Man",1,Long On,Not Out,N/A
+90,2020-03-30,93,93,4,"Extra Cover, Square Leg, Mid Wicket, Extra Cover",0,None,Caught,Cummins
+91,2020-03-31,13,15,0,None,0,None,Caught,Boult
+92,2020-04-01,14,16,1,Third Man,0,None,Bowled,Chahal
+93,2020-04-02,64,63,3,"Long Off, Extra Cover, Square Leg",1,Long Off,Not Out,N/A
+94,2020-04-03,42,39,4,"Cover, Mid Wicket, Mid Wicket, Third Man",0,None,Caught,Cummins
+95,2020-04-04,63,41,7,"Point, Square Leg, Mid Wicket, Point, Square Leg, Fine Leg, Long On",1,Mid Wicket,Bowled,Boult
+96,2020-04-05,5,5,0,None,0,None,Caught,Cummins
+97,2020-04-06,17,16,1,Point,0,None,Caught,Cummins
+98,2020-04-07,4,4,0,None,0,None,Caught,Rashid Khan
+99,2020-04-08,31,20,3,"Fine Leg, Long On, Extra Cover",0,None,LBW,Boult
+100,2020-04-09,31,22,1,Square Leg,1,Point,LBW,Starc
+101,2020-04-10,88,81,9,"Square Leg, Long Off, Mid Wicket, Cover, Square Leg, Third Man, Mid Wicket, Mid Wicket, Third Man",1,Square Leg,Not Out,N/A
+102,2020-04-11,59,36,4,"Long Off, Third Man, Long Off, Fine Leg",0,None,Bowled,Rashid Khan
+103,2020-04-12,59,72,4,"Square Leg, Square Leg, Long On, Mid Wicket",0,None,Not Out,N/A
+104,2020-04-13,25,21,2,"Mid Wicket, Cover",0,None,Bowled,Starc
+105,2020-04-14,32,34,2,"Square Leg, Cover",0,None,Bowled,Starc
+106,2020-04-15,46,46,4,"Extra Cover, Point, Long Off, Cover",1,Fine Leg,Not Out,N/A
+107,2020-04-16,33,31,3,"Long On, Fine Leg, Point",0,None,Bowled,Chahal
+108,2020-04-17,36,36,2,"Long Off, Extra Cover",0,None,Not Out,N/A
+109,2020-04-18,13,10,1,Long Off,0,None,Caught,Bumrah
+110,2020-04-19,13,8,1,Mid Wicket,0,None,Caught,Hazlewood
+111,2020-04-20,28,30,1,Point,0,None,Caught,Starc
+112,2020-04-21,9,7,0,None,0,None,Caught,Boult
+113,2020-04-22,30,18,3,"Long Off, Fine Leg, Extra Cover",0,None,Caught,Bumrah
+114,2020-04-23,30,18,1,Point,0,None,Caught,Bumrah
+115,2020-04-24,16,15,0,None,0,None,Not Out,N/A
+116,2020-04-25,15,18,0,None,0,None,Caught,Boult
+117,2020-04-26,79,48,8,"Cover, Extra Cover, Fine Leg, Point, Long On, Extra Cover, Long Off, Cover",2,"Fine Leg, Long On",Stumped,Chahal
+118,2020-04-27,14,10,1,Point,0,None,Caught,Bumrah
+119,2020-04-28,14,16,1,Square Leg,0,None,Caught,Hazlewood
+120,2020-04-29,84,79,5,"Mid Wicket, Square Leg, Long On, Long Off, Fine Leg",0,None,Bowled,Chahal
+121,2020-04-30,115,92,13,"Fine Leg, Long Off, Cover, Square Leg, Fine Leg, Long Off, Cover, Long On, Fine Leg, Fine Leg, Long On, Mid Wicket, Square Leg",1,Long On,Caught,Rashid Khan
+122,2020-05-01,10,7,0,None,0,None,Caught,Hazlewood
+123,2020-05-02,37,28,3,"Extra Cover, Mid Wicket, Point",0,None,Caught,Starc
+124,2020-05-03,8,7,0,None,0,None,Caught,Hazlewood
+125,2020-05-04,11,8,0,None,0,None,Bowled,Chahal
+126,2020-05-05,17,12,1,Cover,0,None,Not Out,N/A
+127,2020-05-06,18,11,1,Third Man,0,None,Caught,Boult
+128,2020-05-07,143,104,12,"Long Off, Point, Point, Long Off, Point, Extra Cover, Mid Wicket, Fine Leg, Extra Cover, Third Man, Cover, Long Off",3,"Fine Leg, Mid Wicket, Long On",Not Out,N/A
+129,2020-05-08,23,15,1,Cover,0,None,Caught,Bumrah
+130,2020-05-09,64,67,3,"Long Off, Extra Cover, Point",1,Square Leg,Caught,Chahal
+131,2020-05-10,50,29,4,"Square Leg, Square Leg, Fine Leg, Point",0,None,Caught,Starc
+132,2020-05-11,20,16,1,Cover,0,None,Stumped,Chahal
+133,2020-05-12,55,43,5,"Cover, Point, Fine Leg, Fine Leg, Third Man",0,None,Bowled,Rabada
+134,2020-05-13,45,34,5,"Cover, Extra Cover, Mid Wicket, Fine Leg, Third Man",0,None,Caught,Hazlewood
+135,2020-05-14,40,45,4,"Point, Cover, Mid Wicket, Cover",0,None,Caught,Starc
+136,2020-05-15,12,8,1,Fine Leg,0,None,Bowled,Starc
+137,2020-05-16,33,28,3,"Cover, Cover, Mid Wicket",0,None,Caught,Hazlewood
+138,2020-05-17,88,74,7,"Cover, Mid Wicket, Long Off, Fine Leg, Long Off, Mid Wicket, Long On",2,"Extra Cover, Cover",Caught,Bumrah
+139,2020-05-18,9,7,0,None,0,None,Not Out,N/A
+140,2020-05-19,31,30,1,Extra Cover,0,None,Caught,Hazlewood
+141,2020-05-20,42,41,3,"Square Leg, Cover, Mid Wicket",1,Square Leg,Bowled,Rabada
+142,2020-05-21,18,18,1,Mid Wicket,0,None,Caught,Bumrah
+143,2020-05-22,19,23,2,"Third Man, Cover",0,None,Bowled,Cummins
+144,2020-05-23,11,8,1,Extra Cover,0,None,Not Out,N/A
+145,2020-05-24,47,31,4,"Square Leg, Cover, Square Leg, Fine Leg",1,Fine Leg,Stumped,Hazlewood
+146,2020-05-25,11,8,1,Square Leg,0,None,LBW,Chahal
+147,2020-05-26,30,17,1,Long Off,0,None,Stumped,Boult
+148,2020-05-27,78,69,5,"Cover, Extra Cover, Square Leg, Square Leg, Square Leg",1,Third Man,Bowled,Cummins
+149,2020-05-28,26,30,2,"Long On, Square Leg",0,None,Caught,Starc
+150,2020-05-29,9,10,0,None,0,None,LBW,Rabada
+151,2020-05-30,36,30,3,"Long On, Third Man, Third Man",0,None,Stumped,Starc
+152,2020-05-31,36,25,3,"Third Man, Third Man, Extra Cover",0,None,Not Out,N/A
+153,2020-06-01,47,28,5,"Cover, Fine Leg, Fine Leg, Long On, Fine Leg",0,None,Caught,Bumrah
+154,2020-06-02,32,21,3,"Square Leg, Third Man, Square Leg",0,None,Caught,Rabada
+155,2020-06-03,8,6,0,None,0,None,Caught,Rabada
+156,2020-06-04,43,47,5,"Cover, Long On, Long On, Mid Wicket, Square Leg",1,Square Leg,Not Out,N/A
+157,2020-06-05,7,7,0,None,0,None,LBW,Rabada
+158,2020-06-06,12,10,1,Mid Wicket,0,None,Run Out,N/A
+159,2020-06-07,13,14,1,Point,0,None,Caught,Cummins
+160,2020-06-08,37,40,3,"Cover, Extra Cover, Third Man",1,Point,Not Out,N/A
+161,2020-06-09,49,46,4,"Cover, Long Off, Square Leg, Mid Wicket",1,Point,Caught,Cummins
+162,2020-06-10,10,8,0,None,0,None,Bowled,Cummins
+163,2020-06-11,28,35,2,"Long Off, Cover",0,None,Caught,Bumrah
+164,2020-06-12,36,32,3,"Point, Mid Wicket, Cover",0,None,LBW,Rabada
+165,2020-06-13,20,18,1,Fine Leg,0,None,Caught,Chahal
+166,2020-06-14,2,2,0,None,0,None,Caught,Chahal
+167,2020-06-15,31,28,1,Cover,0,None,Caught,Cummins
+168,2020-06-16,17,20,1,Square Leg,0,None,Not Out,N/A
+169,2020-06-17,39,40,2,"Extra Cover, Third Man",0,None,Caught,Rashid Khan
+170,2020-06-18,101,83,6,"Extra Cover, Extra Cover, Fine Leg, Fine Leg, Fine Leg, Long Off",3,"Cover, Square Leg, Extra Cover",Caught,Cummins
+171,2020-06-19,61,44,7,"Point, Extra Cover, Cover, Fine Leg, Point, Cover, Point",0,None,Caught,Cummins
+172,2020-06-20,69,61,8,"Mid Wicket, Third Man, Long On, Square Leg, Long Off, Mid Wicket, Long Off, Extra Cover",1,Point,Not Out,N/A
+173,2020-06-21,42,34,2,"Point, Long On",1,Fine Leg,Caught,Starc
+174,2020-06-22,62,37,6,"Long On, Extra Cover, Third Man, Long Off, Mid Wicket, Mid Wicket",1,Extra Cover,Caught,Starc
+175,2020-06-23,107,96,7,"Mid Wicket, Point, Long On, Long Off, Mid Wicket, Square Leg, Point",3,"Fine Leg, Long On, Cover",Bowled,Chahal
+176,2020-06-24,14,14,1,Third Man,0,None,Bowled,Cummins
+177,2020-06-25,10,7,0,None,0,None,Not Out,N/A
+178,2020-06-26,34,27,4,"Long Off, Extra Cover, Mid Wicket, Cover",0,None,Bowled,Chahal
+179,2020-06-27,72,62,5,"Cover, Square Leg, Long On, Fine Leg, Fine Leg",2,"Extra Cover, Long Off",Caught,Hazlewood
+180,2020-06-28,46,45,5,"Long On, Mid Wicket, Third Man, Long On, Mid Wicket",0,None,Bowled,Rashid Khan
+181,2020-06-29,22,24,2,"Fine Leg, Fine Leg",0,None,Run Out,N/A
+182,2020-06-30,19,13,1,Square Leg,0,None,Caught,Boult
+183,2020-07-01,1,2,0,None,0,None,Bowled,Hazlewood
+184,2020-07-02,14,11,0,None,0,None,Bowled,Starc
+185,2020-07-03,19,22,2,"Extra Cover, Long Off",0,None,Bowled,Hazlewood
+186,2020-07-04,59,51,4,"Point, Point, Point, Long Off",0,None,Bowled,Rabada
+187,2020-07-05,46,42,5,"Cover, Third Man, Fine Leg, Cover, Square Leg",0,None,Caught,Starc
+188,2020-07-06,50,54,3,"Mid Wicket, Mid Wicket, Cover",1,Mid Wicket,LBW,Cummins
+189,2020-07-07,61,50,5,"Point, Square Leg, Third Man, Fine Leg, Long On",0,None,Not Out,N/A
+190,2020-07-08,24,29,1,Long Off,0,None,Bowled,Bumrah
+191,2020-07-09,20,20,2,"Fine Leg, Extra Cover",0,None,Not Out,N/A
+192,2020-07-10,102,115,7,"Extra Cover, Long Off, Cover, Fine Leg, Cover, Fine Leg, Long Off",0,None,Caught,Starc
+193,2020-07-11,14,11,1,Extra Cover,0,None,Caught,Boult
+194,2020-07-12,124,95,6,"Long On, Third Man, Square Leg, Point, Long On, Mid Wicket",1,Fine Leg,Caught,Chahal
+195,2020-07-13,73,49,8,"Long Off, Mid Wicket, Long On, Cover, Long Off, Cover, Long On, Square Leg",1,Fine Leg,Caught,Cummins
+196,2020-07-14,32,20,2,"Extra Cover, Long Off",0,None,Bowled,Chahal
+197,2020-07-15,36,30,3,"Cover, Mid Wicket, Mid Wicket",0,None,Caught,Starc
+198,2020-07-16,69,39,6,"Long On, Square Leg, Point, Long On, Third Man, Long On",1,Mid Wicket,Bowled,Boult
+199,2020-07-17,7,5,0,None,0,None,Caught,Bumrah
+200,2020-07-18,52,31,2,"Long Off, Fine Leg",1,Cover,Bowled,Cummins
+201,2020-07-19,104,72,9,"Third Man, Fine Leg, Extra Cover, Extra Cover, Point, Square Leg, Cover, Mid Wicket, Long On",0,None,Caught,Starc
+202,2020-07-20,41,27,2,"Mid Wicket, Extra Cover",0,None,Not Out,N/A
+203,2020-07-21,7,6,0,None,0,None,Bowled,Boult
+204,2020-07-22,10,7,0,None,0,None,Caught,Cummins
+205,2020-07-23,19,15,1,Long Off,0,None,Caught,Chahal
+206,2020-07-24,41,31,4,"Mid Wicket, Square Leg, Extra Cover, Long Off",1,Mid Wicket,Caught,Chahal
+207,2020-07-25,7,6,0,None,0,None,Bowled,Chahal
+208,2020-07-26,14,13,1,Mid Wicket,0,None,Bowled,Cummins
+209,2020-07-27,5,4,0,None,0,None,Not Out,N/A
+210,2020-07-28,16,17,0,None,0,None,Not Out,N/A
+211,2020-07-29,7,5,0,None,0,None,LBW,Chahal
+212,2020-07-30,12,15,1,Square Leg,0,None,Stumped,Hazlewood
+213,2020-07-31,7,6,0,None,0,None,Run Out,N/A
+214,2020-08-01,36,24,4,"Mid Wicket, Long Off, Square Leg, Cover",0,None,Caught,Hazlewood
+215,2020-08-02,50,62,5,"Long Off, Extra Cover, Long Off, Extra Cover, Long Off",1,Mid Wicket,Caught,Hazlewood
+216,2020-08-03,9,7,0,None,0,None,Caught,Chahal
+217,2020-08-04,26,25,3,"Third Man, Fine Leg, Fine Leg",0,None,Not Out,N/A
+218,2020-08-05,7,9,0,None,0,None,Caught,Rabada
+219,2020-08-06,33,29,3,"Long Off, Point, Extra Cover",0,None,Not Out,N/A
+220,2020-08-07,39,25,3,"Cover, Cover, Point",0,None,Run Out,N/A
+221,2020-08-08,0,4,0,None,0,None,Caught,Hazlewood
+222,2020-08-09,43,42,5,"Fine Leg, Fine Leg, Square Leg, Third Man, Third Man",1,Cover,Bowled,Bumrah
+223,2020-08-10,36,29,3,"Long On, Fine Leg, Long On",0,None,Bowled,Cummins
+224,2020-08-11,8,8,0,None,0,None,Caught,Rabada
+225,2020-08-12,22,20,2,"Square Leg, Cover",0,None,Caught,Chahal
+226,2020-08-13,32,36,3,"Cover, Extra Cover, Cover",0,None,Caught,Rabada
+227,2020-08-14,80,91,4,"Long On, Square Leg, Fine Leg, Long On",2,"Mid Wicket, Fine Leg",Bowled,Rabada
+228,2020-08-15,26,16,2,"Third Man, Fine Leg",0,None,Not Out,N/A
+229,2020-08-16,41,49,3,"Fine Leg, Third Man, Extra Cover",0,None,LBW,Boult
+230,2020-08-17,7,5,0,None,0,None,Bowled,Hazlewood
+231,2020-08-18,42,24,2,"Cover, Long On",0,None,Caught,Cummins
+232,2020-08-19,21,13,2,"Extra Cover, Point",0,None,Caught,Boult
+233,2020-08-20,11,10,0,None,0,None,Caught,Rashid Khan
+234,2020-08-21,14,8,1,Long Off,0,None,Not Out,N/A
+235,2020-08-22,59,49,3,"Cover, Fine Leg, Mid Wicket",1,Long Off,Bowled,Bumrah
+236,2020-08-23,19,13,1,Square Leg,0,None,Caught,Rashid Khan
+237,2020-08-24,24,19,1,Fine Leg,0,None,Caught,Boult
+238,2020-08-25,37,37,4,"Extra Cover, Fine Leg, Mid Wicket, Square Leg",0,None,Stumped,Rashid Khan
+239,2020-08-26,16,16,1,Cover,0,None,Caught,Starc
+240,2020-08-27,65,47,5,"Extra Cover, Fine Leg, Long Off, Square Leg, Fine Leg",0,None,Not Out,N/A
+241,2020-08-28,23,14,2,"Point, Cover",0,None,Caught,Hazlewood
+242,2020-08-29,73,52,4,"Square Leg, Point, Long On, Long Off",0,None,Caught,Rabada
+243,2020-08-30,2,3,0,None,0,None,Stumped,Boult
+244,2020-08-31,8,6,0,None,0,None,Caught,Chahal
+245,2020-09-01,29,26,3,"Extra Cover, Point, Third Man",0,None,Bowled,Rashid Khan
+246,2020-09-02,185,117,14,"Third Man, Square Leg, Square Leg, Long On, Point, Square Leg, Extra Cover, Long On, Mid Wicket, Point, Long Off, Third Man, Cover, Extra Cover",1,Extra Cover,Bowled,Bumrah
+247,2020-09-03,51,63,6,"Extra Cover, Extra Cover, Long On, Mid Wicket, Point, Long On",0,None,Caught,Boult
+248,2020-09-04,9,9,0,None,0,None,Bowled,Bumrah
+249,2020-09-05,34,28,2,"Long Off, Mid Wicket",0,None,Caught,Hazlewood
+250,2020-09-06,21,19,1,Fine Leg,0,None,Run Out,N/A
+251,2020-09-07,157,130,12,"Long On, Fine Leg, Cover, Square Leg, Cover, Long On, Mid Wicket, Extra Cover, Point, Cover, Long Off, Cover",0,None,Not Out,N/A
+252,2020-09-08,65,41,5,"Mid Wicket, Third Man, Cover, Mid Wicket, Point",0,None,Not Out,N/A
+253,2020-09-09,34,25,3,"Fine Leg, Square Leg, Mid Wicket",0,None,Caught,Rabada
+254,2020-09-10,36,37,3,"Point, Long On, Mid Wicket",0,None,LBW,Cummins
+255,2020-09-11,62,37,6,"Long Off, Cover, Long On, Long On, Square Leg, Square Leg",0,None,Caught,Chahal
+256,2020-09-12,36,26,3,"Square Leg, Cover, Point",0,None,Bowled,Rabada
+257,2020-09-13,16,13,1,Extra Cover,0,None,Not Out,N/A
+258,2020-09-14,4,4,0,None,0,None,Caught,Boult
+259,2020-09-15,21,22,1,Point,0,None,Caught,Bumrah
+260,2020-09-16,52,39,4,"Mid Wicket, Point, Long On, Point",0,None,LBW,Cummins
+261,2020-09-17,18,11,2,"Square Leg, Mid Wicket",0,None,Caught,Bumrah
+262,2020-09-18,12,8,1,Fine Leg,0,None,Stumped,Hazlewood
+263,2020-09-19,53,39,3,"Fine Leg, Mid Wicket, Long Off",0,None,Not Out,N/A
+264,2020-09-20,35,33,4,"Point, Cover, Long On, Mid Wicket",0,None,Not Out,N/A
+265,2020-09-21,91,53,7,"Fine Leg, Long Off, Square Leg, Square Leg, Fine Leg, Cover, Point",2,"Mid Wicket, Fine Leg",LBW,Bumrah
+266,2020-09-22,24,14,2,"Square Leg, Third Man",0,None,Caught,Starc
+267,2020-09-23,28,29,2,"Cover, Cover",0,None,LBW,Hazlewood
+268,2020-09-24,43,34,2,"Long Off, Fine Leg",0,None,Caught,Hazlewood
+269,2020-09-25,32,25,3,"Extra Cover, Long On, Square Leg",0,None,Caught,Bumrah
+270,2020-09-26,31,19,1,Cover,0,None,Bowled,Rabada
+271,2020-09-27,2,2,0,None,0,None,Caught,Chahal
+272,2020-09-28,35,26,3,"Long Off, Square Leg, Fine Leg",1,Extra Cover,Caught,Chahal
+273,2020-09-29,16,16,1,Long Off,0,None,Caught,Rabada
+274,2020-09-30,6,4,0,None,0,None,Bowled,Starc
+275,2020-10-01,21,19,1,Third Man,0,None,Bowled,Starc
+276,2020-10-02,19,11,2,"Extra Cover, Fine Leg",0,None,Caught,Boult
+277,2020-10-03,0,2,0,None,0,None,Bowled,Chahal
+278,2020-10-04,23,19,1,Point,0,None,Caught,Chahal
+279,2020-10-05,62,41,7,"Cover, Long Off, Cover, Third Man, Third Man, Extra Cover, Long On",1,Mid Wicket,Not Out,N/A
+280,2020-10-06,48,47,3,"Long Off, Mid Wicket, Square Leg",0,None,Bowled,Hazlewood
+281,2020-10-07,35,43,2,"Long On, Third Man",0,None,Stumped,Rashid Khan
+282,2020-10-08,39,34,2,"Fine Leg, Long Off",1,Third Man,LBW,Hazlewood
+283,2020-10-09,46,48,2,"Long On, Point",1,Long Off,Caught,Bumrah
+284,2020-10-10,51,45,4,"Cover, Extra Cover, Extra Cover, Cover",0,None,Caught,Boult
+285,2020-10-11,22,14,2,"Fine Leg, Fine Leg",0,None,Caught,Rashid Khan
+286,2020-10-12,5,4,0,None,0,None,LBW,Starc
+287,2020-10-13,150,157,12,"Cover, Extra Cover, Long On, Fine Leg, Extra Cover, Long On, Square Leg, Long Off, Third Man, Long On, Square Leg, Point",1,Extra Cover,Stumped,Bumrah
+288,2020-10-14,14,9,1,Fine Leg,0,None,Bowled,Cummins
+289,2020-10-15,19,17,1,Long On,0,None,Caught,Hazlewood
+290,2020-10-16,10,10,0,None,0,None,Bowled,Cummins
+291,2020-10-17,26,22,2,"Long Off, Square Leg",0,None,LBW,Rashid Khan
+292,2020-10-18,65,45,7,"Cover, Extra Cover, Long Off, Fine Leg, Third Man, Point, Fine Leg",2,"Mid Wicket, Square Leg",Caught,Boult
+293,2020-10-19,18,12,0,None,0,None,Bowled,Hazlewood
+294,2020-10-20,6,5,0,None,0,None,Caught,Boult
+295,2020-10-21,58,69,6,"Long Off, Square Leg, Point, Cover, Mid Wicket, Long On",0,None,Bowled,Rabada
+296,2020-10-22,53,31,3,"Point, Cover, Square Leg",0,None,Bowled,Boult
+297,2020-10-23,14,10,1,Point,0,None,Bowled,Cummins
+298,2020-10-24,51,30,5,"Extra Cover, Long On, Extra Cover, Cover, Long Off",1,Long On,Caught,Starc
+299,2020-10-25,125,104,14,"Cover, Long On, Long On, Square Leg, Extra Cover, Extra Cover, Square Leg, Third Man, Third Man, Extra Cover, Long On, Long Off, Fine Leg, Square Leg",1,Extra Cover,Not Out,N/A
+300,2020-10-26,23,26,1,Mid Wicket,0,None,Caught,Rashid Khan
+301,2020-10-27,51,30,4,"Mid Wicket, Fine Leg, Third Man, Mid Wicket",1,Square Leg,Bowled,Chahal
+302,2020-10-28,76,70,4,"Mid Wicket, Square Leg, Fine Leg, Long Off",1,Long Off,Bowled,Rabada
+303,2020-10-29,39,25,3,"Cover, Point, Point",0,None,Caught,Rashid Khan
+304,2020-10-30,54,38,6,"Long Off, Mid Wicket, Square Leg, Long On, Fine Leg, Extra Cover",1,Cover,Caught,Starc
+305,2020-10-31,19,12,1,Third Man,0,None,Not Out,N/A
+306,2020-11-01,70,79,7,"Fine Leg, Mid Wicket, Square Leg, Long On, Square Leg, Long On, Square Leg",1,Long On,Caught,Cummins
+307,2020-11-02,28,18,1,Mid Wicket,0,None,Caught,Rashid Khan
+308,2020-11-03,19,15,2,"Long On, Long Off",0,None,Bowled,Rabada
+309,2020-11-04,43,34,2,"Mid Wicket, Long On",0,None,Caught,Cummins
+310,2020-11-05,24,15,1,Third Man,0,None,LBW,Rabada
+311,2020-11-06,17,18,1,Long On,0,None,Caught,Bumrah
+312,2020-11-07,18,15,1,Long On,0,None,Bowled,Rashid Khan
+313,2020-11-08,6,6,0,None,0,None,Caught,Chahal
+314,2020-11-09,96,54,10,"Fine Leg, Square Leg, Third Man, Square Leg, Long On, Extra Cover, Square Leg, Third Man, Long On, Long Off",1,Mid Wicket,Caught,Starc
+315,2020-11-10,52,43,3,"Third Man, Long On, Mid Wicket",0,None,Bowled,Bumrah
+316,2020-11-11,55,37,4,"Extra Cover, Cover, Long Off, Third Man",1,Third Man,Caught,Hazlewood
+317,2020-11-12,42,29,4,"Fine Leg, Mid Wicket, Long On, Fine Leg",0,None,LBW,Bumrah
+318,2020-11-13,10,10,0,None,0,None,Not Out,N/A
+319,2020-11-14,77,81,7,"Third Man, Fine Leg, Square Leg, Extra Cover, Fine Leg, Fine Leg, Long On",1,Point,Caught,Hazlewood
+320,2020-11-15,19,11,1,Long Off,0,None,Caught,Chahal
+321,2020-11-16,20,18,1,Square Leg,0,None,Caught,Bumrah
+322,2020-11-17,15,10,1,Cover,0,None,LBW,Boult
+323,2020-11-18,14,10,0,None,0,None,Caught,Boult
+324,2020-11-19,9,6,0,None,0,None,Not Out,N/A
+325,2020-11-20,45,47,5,"Extra Cover, Fine Leg, Mid Wicket, Long Off, Long On",0,None,Caught,Starc
+326,2020-11-21,47,44,3,"Square Leg, Mid Wicket, Fine Leg",0,None,Bowled,Chahal
+327,2020-11-22,10,7,0,None,0,None,Caught,Chahal
+328,2020-11-23,49,34,2,"Square Leg, Fine Leg",1,Fine Leg,LBW,Boult
+329,2020-11-24,3,2,0,None,0,None,Bowled,Chahal
+330,2020-11-25,90,83,6,"Long On, Long On, Mid Wicket, Fine Leg, Long On, Mid Wicket",1,Long Off,Caught,Bumrah
+331,2020-11-26,2,3,0,None,0,None,Bowled,Rashid Khan
+332,2020-11-27,33,28,1,Cover,0,None,Run Out,N/A
+333,2020-11-28,15,11,1,Third Man,0,None,LBW,Bumrah
+334,2020-11-29,52,42,4,"Long On, Fine Leg, Long On, Long Off",0,None,Bowled,Rabada
+335,2020-11-30,35,28,3,"Extra Cover, Point, Square Leg",0,None,Caught,Chahal
+336,2020-12-01,37,24,3,"Square Leg, Point, Extra Cover",1,Long On,Caught,Starc
+337,2020-12-02,48,52,5,"Third Man, Point, Square Leg, Long Off, Point",1,Point,Caught,Rabada
+338,2020-12-03,33,24,1,Long On,0,None,Caught,Boult
+339,2020-12-04,49,35,4,"Cover, Extra Cover, Fine Leg, Cover",1,Cover,Caught,Starc
+340,2020-12-05,24,26,2,"Long Off, Long On",0,None,Caught,Starc
+341,2020-12-06,54,42,3,"Long On, Long On, Point",0,None,Not Out,N/A
+342,2020-12-07,104,72,7,"Mid Wicket, Third Man, Mid Wicket, Long On, Mid Wicket, Square Leg, Square Leg",2,"Third Man, Point",Bowled,Hazlewood
+343,2020-12-08,24,20,2,"Extra Cover, Point",0,None,LBW,Cummins
+344,2020-12-09,31,31,1,Point,0,None,Caught,Boult
+345,2020-12-10,2,2,0,None,0,None,LBW,Cummins
+346,2020-12-11,19,14,2,"Long On, Point",0,None,Caught,Starc
+347,2020-12-12,28,17,2,"Extra Cover, Fine Leg",0,None,Bowled,Rabada
+348,2020-12-13,63,42,6,"Square Leg, Third Man, Long On, Long Off, Fine Leg, Mid Wicket",0,None,Run Out,N/A
+349,2020-12-14,1,1,0,None,0,None,Caught,Rashid Khan
+350,2020-12-15,24,18,2,"Cover, Extra Cover",0,None,Caught,Rashid Khan
+351,2020-12-16,7,8,0,None,0,None,Run Out,N/A
+352,2020-12-17,81,91,8,"Cover, Third Man, Cover, Long Off, Long Off, Cover, Fine Leg, Extra Cover",1,Cover,Run Out,N/A
+353,2020-12-18,74,61,8,"Point, Fine Leg, Mid Wicket, Mid Wicket, Long On, Cover, Third Man, Cover",0,None,Not Out,N/A
+354,2020-12-19,17,16,0,None,0,None,Not Out,N/A
+355,2020-12-20,6,7,0,None,0,None,Not Out,N/A
+356,2020-12-21,48,60,5,"Fine Leg, Mid Wicket, Point, Cover, Point",0,None,Caught,Bumrah
+357,2020-12-22,9,8,0,None,0,None,Stumped,Cummins
+358,2020-12-23,49,55,3,"Square Leg, Extra Cover, Cover",0,None,Caught,Rabada
+359,2020-12-24,6,7,0,None,0,None,Bowled,Boult
+360,2020-12-25,83,68,6,"Square Leg, Long Off, Square Leg, Square Leg, Long On, Extra Cover",2,"Long On, Extra Cover",Caught,Boult
+361,2020-12-26,4,3,0,None,0,None,Bowled,Rabada
+362,2020-12-27,5,4,0,None,0,None,Stumped,Starc
+363,2020-12-28,10,10,0,None,0,None,Run Out,N/A
+364,2020-12-29,3,3,0,None,0,None,Not Out,N/A
+365,2020-12-30,65,46,3,"Long On, Long On, Long Off",1,Square Leg,Run Out,N/A
+366,2020-12-31,52,37,5,"Cover, Point, Extra Cover, Long Off, Long Off",0,None,Caught,Starc
+367,2021-01-01,18,11,1,Mid Wicket,0,None,Not Out,N/A
+368,2021-01-02,55,44,6,"Point, Long Off, Long Off, Long On, Extra Cover, Square Leg",0,None,LBW,Starc
+369,2021-01-03,21,23,1,Long Off,0,None,Caught,Rabada
+370,2021-01-04,40,29,4,"Third Man, Square Leg, Extra Cover, Extra Cover",0,None,Caught,Starc
+371,2021-01-05,90,92,9,"Fine Leg, Fine Leg, Third Man, Long Off, Extra Cover, Extra Cover, Cover, Cover, Point",0,None,Not Out,N/A
+372,2021-01-06,25,17,1,Long On,0,None,Bowled,Chahal
+373,2021-01-07,56,66,4,"Fine Leg, Point, Third Man, Cover",0,None,Caught,Cummins
+374,2021-01-08,32,28,2,"Point, Long Off",0,None,LBW,Cummins
+375,2021-01-09,28,21,2,"Mid Wicket, Point",0,None,Bowled,Boult
+376,2021-01-10,5,4,0,None,0,None,Bowled,Cummins
+377,2021-01-11,71,47,8,"Cover, Point, Long Off, Long On, Mid Wicket, Cover, Fine Leg, Long On",1,Fine Leg,Run Out,N/A
+378,2021-01-12,35,40,2,"Long On, Mid Wicket",0,None,Bowled,Bumrah
+379,2021-01-13,7,5,0,None,0,None,Not Out,N/A
+380,2021-01-14,43,35,3,"Fine Leg, Fine Leg, Extra Cover",0,None,Caught,Rashid Khan
+381,2021-01-15,7,6,0,None,0,None,Bowled,Hazlewood
+382,2021-01-16,88,54,6,"Long Off, Third Man, Cover, Mid Wicket, Third Man, Third Man",2,"Third Man, Cover",Not Out,N/A
+383,2021-01-17,27,27,2,"Point, Point",0,None,Caught,Rashid Khan
+384,2021-01-18,74,57,6,"Point, Long On, Cover, Mid Wicket, Square Leg, Mid Wicket",1,Long On,LBW,Starc
+385,2021-01-19,88,108,6,"Mid Wicket, Square Leg, Long Off, Extra Cover, Mid Wicket, Mid Wicket",0,None,Caught,Rabada
+386,2021-01-20,40,26,2,"Cover, Third Man",0,None,Stumped,Rabada
+387,2021-01-21,63,42,6,"Square Leg, Extra Cover, Long On, Extra Cover, Long On, Mid Wicket",1,Fine Leg,Not Out,N/A
+388,2021-01-22,8,6,0,None,0,None,Bowled,Hazlewood
+389,2021-01-23,15,11,1,Long Off,0,None,Bowled,Chahal
+390,2021-01-24,13,8,0,None,0,None,Caught,Chahal
+391,2021-01-25,69,56,4,"Point, Long Off, Square Leg, Third Man",0,None,Caught,Cummins
+392,2021-01-26,51,31,6,"Long Off, Third Man, Long Off, Mid Wicket, Square Leg, Square Leg",1,Long On,LBW,Rabada
+393,2021-01-27,34,21,2,"Third Man, Third Man",0,None,Caught,Chahal
+394,2021-01-28,9,6,0,None,0,None,Not Out,N/A
+395,2021-01-29,64,37,6,"Point, Third Man, Mid Wicket, Fine Leg, Third Man, Square Leg",0,None,Run Out,N/A
+396,2021-01-30,56,46,3,"Cover, Square Leg, Fine Leg",0,None,Not Out,N/A
+397,2021-01-31,17,17,1,Cover,0,None,Not Out,N/A
+398,2021-02-01,31,28,2,"Long On, Extra Cover",0,None,Bowled,Hazlewood
+399,2021-02-02,99,63,12,"Third Man, Point, Fine Leg, Fine Leg, Long Off, Square Leg, Third Man, Long On, Extra Cover, Third Man, Cover, Point",1,Extra Cover,Caught,Rashid Khan
+400,2021-02-03,55,34,4,"Long On, Third Man, Fine Leg, Fine Leg",0,None,Caught,Chahal
+401,2021-02-04,30,31,2,"Extra Cover, Point",0,None,Bowled,Chahal
+402,2021-02-05,8,8,0,None,0,None,LBW,Bumrah
+403,2021-02-06,5,7,0,None,0,None,Caught,Chahal
+404,2021-02-07,45,42,2,"Mid Wicket, Fine Leg",0,None,LBW,Hazlewood
+405,2021-02-08,108,65,6,"Long Off, Long On, Long Off, Square Leg, Extra Cover, Mid Wicket",1,Fine Leg,Stumped,Boult
+406,2021-02-09,12,7,1,Fine Leg,0,None,Caught,Hazlewood
+407,2021-02-10,16,10,1,Point,0,None,Caught,Chahal
+408,2021-02-11,38,31,3,"Point, Third Man, Extra Cover",1,Point,Caught,Hazlewood
+409,2021-02-12,14,9,1,Cover,0,None,Not Out,N/A
+410,2021-02-13,39,40,3,"Extra Cover, Third Man, Extra Cover",0,None,Bowled,Starc
+411,2021-02-14,70,44,4,"Mid Wicket, Mid Wicket, Third Man, Long Off",0,None,Bowled,Chahal
+412,2021-02-15,64,70,4,"Point, Point, Point, Point",0,None,Not Out,N/A
+413,2021-02-16,48,36,5,"Cover, Cover, Long On, Extra Cover, Point",0,None,Not Out,N/A
+414,2021-02-17,74,61,6,"Cover, Fine Leg, Third Man, Square Leg, Extra Cover, Square Leg",1,Long On,Stumped,Bumrah
+415,2021-02-18,24,17,2,"Third Man, Fine Leg",0,None,LBW,Chahal
+416,2021-02-19,56,63,3,"Fine Leg, Cover, Point",1,Extra Cover,Caught,Starc
+417,2021-02-20,2,2,0,None,0,None,LBW,Chahal
+418,2021-02-21,17,14,1,Fine Leg,0,None,Bowled,Bumrah
+419,2021-02-22,46,31,2,"Fine Leg, Extra Cover",0,None,Caught,Cummins
+420,2021-02-23,11,8,0,None,0,None,Caught,Cummins
+421,2021-02-24,4,3,0,None,0,None,Caught,Boult
+422,2021-02-25,74,43,6,"Square Leg, Long Off, Fine Leg, Square Leg, Fine Leg, Square Leg",0,None,Not Out,N/A
+423,2021-02-26,56,42,6,"Cover, Long Off, Mid Wicket, Point, Point, Cover",1,Extra Cover,LBW,Boult
+424,2021-02-27,13,8,1,Mid Wicket,0,None,Caught,Rashid Khan
+425,2021-02-28,37,23,3,"Third Man, Fine Leg, Long On",0,None,Bowled,Starc
+426,2021-03-01,17,11,1,Long Off,0,None,Caught,Cummins
+427,2021-03-02,84,54,6,"Point, Extra Cover, Point, Long On, Long On, Point",1,Long On,Bowled,Hazlewood
+428,2021-03-03,9,6,0,None,0,None,Caught,Rashid Khan
+429,2021-03-04,1,1,0,None,0,None,Caught,Bumrah
+430,2021-03-05,47,39,5,"Cover, Long Off, Mid Wicket, Mid Wicket, Fine Leg",0,None,Caught,Cummins
+431,2021-03-06,21,17,2,"Point, Long Off",0,None,Not Out,N/A
+432,2021-03-07,2,2,0,None,0,None,LBW,Hazlewood
+433,2021-03-08,28,24,2,"Third Man, Square Leg",0,None,Bowled,Cummins
+434,2021-03-09,95,60,8,"Long Off, Third Man, Mid Wicket, Long Off, Square Leg, Third Man, Long On, Cover",1,Long Off,Bowled,Cummins
+435,2021-03-10,42,35,2,"Fine Leg, Cover",0,None,Caught,Cummins
+436,2021-03-11,8,7,0,None,0,None,Caught,Rashid Khan
+437,2021-03-12,29,18,1,Point,0,None,Caught,Hazlewood
+438,2021-03-13,10,7,1,Mid Wicket,0,None,Run Out,N/A
+439,2021-03-14,15,11,1,Long On,0,None,Caught,Cummins
+440,2021-03-15,3,2,0,None,0,None,Bowled,Cummins
+441,2021-03-16,12,10,1,Extra Cover,0,None,Stumped,Rabada
+442,2021-03-17,11,9,0,None,0,None,Caught,Rabada
+443,2021-03-18,62,44,6,"Extra Cover, Mid Wicket, Long Off, Third Man, Point, Fine Leg",1,Mid Wicket,Caught,Cummins
+444,2021-03-19,29,18,1,Square Leg,0,None,Bowled,Chahal
+445,2021-03-20,37,35,2,"Mid Wicket, Third Man",0,None,Caught,Rashid Khan
+446,2021-03-21,23,14,1,Long On,0,None,Caught,Rabada
+447,2021-03-22,54,44,4,"Long Off, Mid Wicket, Mid Wicket, Fine Leg",1,Cover,Caught,Chahal
+448,2021-03-23,54,36,4,"Cover, Point, Cover, Long Off",1,Square Leg,Stumped,Chahal
+449,2021-03-24,30,28,1,Cover,0,None,Bowled,Rashid Khan
+450,2021-03-25,53,37,5,"Mid Wicket, Mid Wicket, Extra Cover, Fine Leg, Long Off",0,None,Bowled,Bumrah
+451,2021-03-26,35,29,3,"Extra Cover, Square Leg, Square Leg",0,None,Caught,Starc
+452,2021-03-27,39,33,3,"Cover, Extra Cover, Point",0,None,Caught,Cummins
+453,2021-03-28,0,5,0,None,0,None,LBW,Hazlewood
+454,2021-03-29,5,5,0,None,0,None,Caught,Hazlewood
+455,2021-03-30,103,88,7,"Third Man, Third Man, Long Off, Third Man, Mid Wicket, Long Off, Mid Wicket",1,Long On,Caught,Rashid Khan
+456,2021-03-31,49,47,5,"Square Leg, Square Leg, Long On, Fine Leg, Mid Wicket",1,Long Off,Caught,Starc
+457,2021-04-01,87,66,8,"Third Man, Fine Leg, Cover, Fine Leg, Long Off, Fine Leg, Long Off, Extra Cover",0,None,Caught,Chahal
+458,2021-04-02,175,213,18,"Long On, Point, Long On, Square Leg, Mid Wicket, Cover, Third Man, Long Off, Square Leg, Fine Leg, Long On, Fine Leg, Point, Mid Wicket, Long Off, Square Leg, Fine Leg, Long Off",4,"Extra Cover, Long On, Third Man, Square Leg",Caught,Bumrah
+459,2021-04-03,39,23,2,"Extra Cover, Long Off",0,None,Caught,Boult
+460,2021-04-04,21,14,2,"Extra Cover, Long On",0,None,Caught,Starc
+461,2021-04-05,76,72,6,"Extra Cover, Extra Cover, Extra Cover, Point, Extra Cover, Fine Leg",0,None,Caught,Cummins
+462,2021-04-06,7,6,0,None,0,None,Bowled,Bumrah
+463,2021-04-07,3,3,0,None,0,None,Caught,Rabada
+464,2021-04-08,5,6,0,None,0,None,Not Out,N/A
+465,2021-04-09,15,13,1,Third Man,0,None,Not Out,N/A
+466,2021-04-10,42,45,2,"Long On, Extra Cover",0,None,Caught,Chahal
+467,2021-04-11,8,9,0,None,0,None,LBW,Starc
+468,2021-04-12,67,76,3,"Long On, Fine Leg, Point",0,None,Caught,Rabada
+469,2021-04-13,112,117,12,"Cover, Cover, Long Off, Mid Wicket, Extra Cover, Long Off, Point, Third Man, Fine Leg, Cover, Cover, Long Off",3,"Square Leg, Third Man, Long On",Caught,Rabada
+470,2021-04-14,133,125,11,"Extra Cover, Fine Leg, Third Man, Fine Leg, Long On, Mid Wicket, Fine Leg, Fine Leg, Long Off, Extra Cover, Point",2,"Extra Cover, Long Off",LBW,Cummins
+471,2021-04-15,23,28,2,"Cover, Fine Leg",0,None,Caught,Hazlewood
+472,2021-04-16,51,56,5,"Long On, Point, Extra Cover, Long On, Point",1,Cover,LBW,Cummins
+473,2021-04-17,69,65,3,"Extra Cover, Square Leg, Fine Leg",0,None,Bowled,Starc
+474,2021-04-18,68,72,3,"Point, Square Leg, Extra Cover",1,Third Man,LBW,Hazlewood
+475,2021-04-19,14,8,0,None,0,None,Bowled,Chahal
+476,2021-04-20,63,46,5,"Long On, Cover, Fine Leg, Long On, Fine Leg",1,Long On,Not Out,N/A
+477,2021-04-21,34,25,1,Square Leg,0,None,Caught,Rabada
+478,2021-04-22,76,84,8,"Extra Cover, Fine Leg, Mid Wicket, Extra Cover, Long Off, Square Leg, Mid Wicket, Point",0,None,Caught,Bumrah
+479,2021-04-23,21,19,1,Long On,0,None,Caught,Rashid Khan
+480,2021-04-24,2,2,0,None,0,None,Caught,Boult
+481,2021-04-25,72,71,7,"Mid Wicket, Fine Leg, Point, Point, Long Off, Third Man, Cover",0,None,Caught,Hazlewood
+482,2021-04-26,24,18,2,"Long On, Extra Cover",0,None,Caught,Chahal
+483,2021-04-27,86,50,5,"Cover, Cover, Square Leg, Mid Wicket, Point",1,Long On,Bowled,Bumrah
+484,2021-04-28,32,39,1,Fine Leg,0,None,Not Out,N/A
+485,2021-04-29,45,27,3,"Fine Leg, Long Off, Square Leg",1,Mid Wicket,Bowled,Hazlewood
+486,2021-04-30,21,12,2,"Mid Wicket, Point",0,None,Bowled,Starc
+487,2021-05-01,23,14,1,Long Off,0,None,Not Out,N/A
+488,2021-05-02,9,11,0,None,0,None,Not Out,N/A
+489,2021-05-03,12,10,1,Mid Wicket,0,None,Bowled,Rashid Khan
+490,2021-05-04,17,18,1,Mid Wicket,0,None,Bowled,Bumrah
+491,2021-05-05,43,39,2,"Fine Leg, Long On",1,Extra Cover,Not Out,N/A
+492,2021-05-06,68,48,3,"Square Leg, Long On, Third Man",1,Extra Cover,Caught,Boult
+493,2021-05-07,59,42,5,"Long Off, Fine Leg, Point, Extra Cover, Fine Leg",0,None,LBW,Chahal
+494,2021-05-08,78,53,6,"Cover, Mid Wicket, Long On, Mid Wicket, Mid Wicket, Mid Wicket",1,Fine Leg,Caught,Rashid Khan
+495,2021-05-09,15,15,1,Mid Wicket,0,None,Caught,Cummins
+496,2021-05-10,40,30,3,"Cover, Long On, Long Off",0,None,Bowled,Cummins
+497,2021-05-11,56,36,6,"Mid Wicket, Long Off, Long Off, Point, Extra Cover, Long On",1,Long On,Bowled,Cummins
+498,2021-05-12,15,17,1,Long Off,0,None,Caught,Boult
+499,2021-05-13,49,29,3,"Long Off, Square Leg, Square Leg",1,Square Leg,Caught,Starc
+500,2021-05-14,68,84,4,"Extra Cover, Mid Wicket, Long Off, Long On",1,Long On,Caught,Starc
+501,2021-05-18,99,88,4,"Extra Cover, Over Keeper, Long Off, Long On",2,"Over Keeper, Cover",Caught,Starc
